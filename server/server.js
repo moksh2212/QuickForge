@@ -12,7 +12,7 @@ await connectCloudinary();
 
 app.use(
   cors({
-    origin: ["https://quick-forge-zckf-git-main-moksh2212s-projects.vercel.app",
+    origin: ["https://quick-forge-37q0x4i13-moksh2212s-projects.vercel.app",
     "http://localhost:5173"],
     credentials: true,
   })
