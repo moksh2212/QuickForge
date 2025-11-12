@@ -18,7 +18,6 @@
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-### 🌐 Live Demo → [https://quickforge.vercel.app](https://quickforge.vercel.app)
 
 </div>
 
